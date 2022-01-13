@@ -1,12 +1,18 @@
 body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background: linear-gradient(teal, pink, orange);
+}
+li {
+  padding: 5px;
 }
 
 a {
-  color: #00B7FF;
+  color: whitesmoke;
 }
-
+button {
+  border-radius: 25%;
+}
 .delete-form {
   display: inline-block;
   margin-right: 10px;
